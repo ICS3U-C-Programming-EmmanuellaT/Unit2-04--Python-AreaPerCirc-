@@ -12,7 +12,7 @@ def main():
     radius = float(input("Enter the radius of the circle (cm): "))
 
     # calculate the area and circumference of a circle
-    area = math.pi * radius**2
+    area = math.pi * radius ** 2
     circumference = 2 * math.pi * radius
 
     # display the area and circumference to the user with proper units
